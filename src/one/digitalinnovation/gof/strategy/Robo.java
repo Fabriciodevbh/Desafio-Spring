@@ -12,3 +12,5 @@ public class Robo {
 		comportamento.mover();
 	}
 }
+
+

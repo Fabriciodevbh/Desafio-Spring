@@ -7,3 +7,5 @@ import org.springframework.stereotype.Repository;
 public interface ClienteRepository extends CrudRepository<Cliente, Long> {
 
 }
+
+
